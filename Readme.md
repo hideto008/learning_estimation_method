@@ -7,3 +7,9 @@
 [KalmanFilterによるパラメータ推定](./Notes/Estimate_Parameter_using_Kalmanfilter.ipynb)
 
 2. 非線形システム
+
+
+-------------------------------
+参考文献
+
+[1] 足立修一, 丸山一郎, "カルマンフィルタの基礎", 東京電機大学出版,2015
